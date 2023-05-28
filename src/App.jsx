@@ -1,10 +1,8 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css'
 import NavbarComp from "./components/NavbarComp"
-import SearchComp from "./components/SearchComp";
-import CarouselComp from "./components/CarouselComp";
 
-import { Button, Alert, Image, Col, Row, Container } from "react-bootstrap";
+import { Button, Image, Col, Row, Container } from "react-bootstrap";
 
 export default function App() {
   return (
